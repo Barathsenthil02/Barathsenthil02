@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Barath.
-I'm an aspiring Software Developer passionate about building modern web applications. I enjoy working with React, JavaScript, Node.js, Python, MySQL, and MongoDB, and I'm continuously improving my problem-solving and development skills. I'm currently seeking opportunities to contribute, learn, and grow as a developer.
+💻 Aspiring Software Developer from India
+
+I enjoy building modern, responsive web applications using React, JavaScript, Node.js, Python, MySQL, and MongoDB.
+
+🚀 Currently looking for Junior Software Developer opportunities.
 
 
 ## 🌐 Socials:
