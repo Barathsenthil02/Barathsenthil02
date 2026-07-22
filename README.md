@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Barath
+# 👋 Hi, I'm Barath Senthil
 💻 Aspiring Software Developer from India
 
 I enjoy building modern, responsive web applications using React, JavaScript, Node.js, Python, MySQL, and MongoDB.
