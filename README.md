@@ -21,5 +21,7 @@ I enjoy building modern, responsive web applications using React, JavaScript, No
 
 ---
 [![](https://komarev.com/ghpvc/?username=Barathsenthil02&icon=0&color=0)](https://visitcount.itsvg.in)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="barath-senthil-6b0402291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/barath-senthil-6b0402291?trk=profile-badge">Barath Senthil</a></div>
+              
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
